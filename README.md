@@ -8,7 +8,7 @@ This tutorial shows basic steps for analyzing an RGB image of a single plant. Ma
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)(https://github.com/danforthcenter/plantcv-tutorial-simple-rgb-workflow.git)
+[![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-simple-rgb-workflow.git)
 
 ## Tutorial tags/keywords
 
